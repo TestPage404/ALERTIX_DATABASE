@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+config.py
+venv/all_data.tmp
+logfile.log
+__pycache__
